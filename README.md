@@ -23,13 +23,12 @@ RRF - робот команды N, сделанный в детском техн
 * Драйвер двигателя L293D
 * Одноплатный мини-компьютер Raspberry Pi 3
 
-На одноплатный мини-компьютер Raspberry Pi 3 установлена ОС Raspbian, на компьютере содержится весь программный код, запуск осуществляется через файл [app.py](https://github.com/nrav5tvennik/CRT/app.py) 
+На одноплатный мини-компьютер Raspberry Pi 3 установлена ОС Raspbian, на компьютере содержится весь программный код, запуск осуществляется через файл [app.py](https://github.com/nrav5tvennik/CRT/blob/main/app.py) 
 
 ## **Программная часть**
 
 Программный код состоит из 3 файлов:
-
-* app.py - через него проходит запуск программы
-* camera.py - через него производится захват видео с камеры
-* templates/index.html - панель управления
+* [app.py](https://github.com/nrav5tvennik/CRT/blob/main/app.py)  - через него проходит запуск программы
+* [camera.py](https://github.com/nrav5tvennik/CRT/blob/main/camera.py)  - через него производится захват видео с камеры
+* templates/[index.py](https://github.com/nrav5tvennik/CRT/blob/main/templates/index.html) - панель управления
 
