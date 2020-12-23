@@ -30,5 +30,5 @@ RRF - робот команды N, сделанный в детском техн
 Программный код состоит из 3 файлов:
 * [app.py](https://github.com/nrav5tvennik/CRT/blob/main/app.py)  - через него проходит запуск программы
 * [camera.py](https://github.com/nrav5tvennik/CRT/blob/main/camera.py)  - через него производится захват видео с камеры
-* templates/[index.py](https://github.com/nrav5tvennik/CRT/blob/main/templates/index.html) - панель управления
+* [templates/](https://github.com/nrav5tvennik/CRT/tree/main/templates)[index.py](https://github.com/nrav5tvennik/CRT/blob/main/templates/index.html) - панель управления
 
